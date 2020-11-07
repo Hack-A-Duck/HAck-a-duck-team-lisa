@@ -1,5 +1,5 @@
 # GLEETIMES
-
+This is our blog submission for Hack-a-duck hackathon. With this blog we tried to go an extra mile and built a website with a positive impact and blogs for kids that our writers can both add and delete.<br />
 Please read the idea below properly before opening the app also every post in app has LISTEN NEWS feature, do check it out.<br>
 We tried to make UI simple and colourful as this App is made for catering only younger audience i.e. 6-10 years old kids.<br>
 <br>
