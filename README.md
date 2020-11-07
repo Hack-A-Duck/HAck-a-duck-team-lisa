@@ -1,6 +1,6 @@
 # GLEETIMES
 This is our blog submission for Hack-a-duck hackathon. With this blog we tried to go an extra mile and built a website with a positive impact and blogs for kids that our writers can both add and delete.<br />
-Please read the idea below properly before opening the app also every post in app has LISTEN NEWS feature, do check it out.<br>
+Please read the idea below properly before opening the app also every post in app has LISTEN NEWS (working in Chrome only)feature, do check it out.<br>
 We tried to make UI simple and colourful as this App is made for catering only younger audience i.e. 6-10 years old kids.<br>
 <br>
 <b>Idea:</b> So we are aiming to start a positive news and media company for kids. Just imagine how does a 10-year-old kid would look at the world if he is seeing news tv channels 24x7 with his family every day. There are riots, pandemic, encounters, suicides and youtube is filled with objectionable content so a question arises do our kids really need to see all this? Yes, they do need to understand the concept of poverty, depression and pandemic but we don't need to bombard them with all the negative news and parents also don't have an option these channels, newspapers and twitter are the only sources for their updates and news.<br>
